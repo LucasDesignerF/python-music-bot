@@ -73,7 +73,7 @@ Certifique-se de ter os seguintes pré-requisitos instalados:
    DISCORD_TOKEN=seu_token_do_discord
    ```
 
-2. Configure o caminho para o FFmpeg em `bin/ffmpeg.exe` ou ajuste o código para o local correto.
+2. Configure o caminho para o FFmpeg em `bin/ffmpeg.exe` ou ajuste o código para o local correto (a pasta bin nao foi adicionada ao projeto, devido ao tamanho dos binarios, portanto use os binarios de acordo com o sistema operacional que ira desenvolver o bot).
 
 ## Comandos
 
